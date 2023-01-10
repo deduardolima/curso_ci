@@ -13,7 +13,7 @@ jobs:
     env: 
       HOST: localhost
       PORT: 5432
-      PASS: root
+      PASSWORD: root
       USER: root      
       DBNAME: root
     strategy:
